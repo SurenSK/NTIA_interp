@@ -1,0 +1,3 @@
+INTEROPERATING: Embed=-0.0069 | TotalAttr=5.8501 | Bias=0.0000 | Logit=2.5110
+PROTOCOL: Embed=-0.0011 | TotalAttr=-1.6241 | Bias=0.0000 | Logit=0.2352
+TRANSPORT: Embed=-0.0269 | TotalAttr=-1.1656 | Bias=0.0000 | Logit=0.6984
